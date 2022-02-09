@@ -1,0 +1,14 @@
+A=int(input('enter value for A\t'))
+B=int(input('enter value for b\t'))
+if A<B:
+    print('B =',B,'is big')
+else:
+    print('A =',A,'is big ')
+
+Output:
+
+
+enter value for A   10
+enter value for B   30
+
+B=30 is big
