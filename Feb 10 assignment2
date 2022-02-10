@@ -1,0 +1,12 @@
+Write a program to print given number is +ve or -ve number
+
+Num=int(input("enter a number:"))
+If num>0:
+Print("positive number")
+Else:
+Print(" negative number")
+
+Output:
+Enter a number:
+15
+Postive number
